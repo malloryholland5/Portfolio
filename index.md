@@ -9,7 +9,7 @@ I’m passionate about uncovering insights that drive smarter business decisions
 
 ## 🏡 Real Estate Forecasting
 
-### [Housing Market – Time-on-Market Model](https://github.com/malloryholland5/Portfolio/tree/main/Housing%20Market%20-%20Time%20on%20Market)
+### [Housing Market – Time-on-Market Model]([https://github.com/malloryholland5/Portfolio/tree/main/Housing%20Market%20-%20Time%20on%20Market](https://github.com/malloryholland5/Portfolio/blob/main/Northwest%20Georgia%20Housing%20Market%20-%20Random%20Forest%2C%20Linear%20Regression%20Survival%20Curve%20Analysis.ipynb))
 Predicted how long homes would stay on the market using Random Forest and Linear Regression.
 - Tools: Python (pandas, scikit-learn), matplotlib
 - Skills: EDA, model evaluation, regression modeling
@@ -18,39 +18,21 @@ Predicted how long homes would stay on the market using Random Forest and Linear
 
 ## 💰 Financial Analytics
 
-### [Loan Status Classification](https://github.com/malloryholland5/Portfolio/tree/main/Loan%20Status%20Prediction)
+### [Loan Status Classification]([https://github.com/malloryholland5/Portfolio/tree/main/Loan%20Status%20Prediction](https://github.com/malloryholland5/Portfolio/blob/main/Best%20Model%20for%20Predicting%20Loan%20Status%20(Hyperparameter%20Tuning)-2.ipynb))
 Built a classification model to predict loan approval using logistic regression and feature selection.
 - Tools: Python (scikit-learn, seaborn), Jupyter
 - Skills: Data cleaning, modeling, evaluation (confusion matrix, ROC)
 
-### [R&D vs. Revenue Analysis](https://github.com/malloryholland5/Portfolio/tree/main/Revenue%20and%20R%26D)
+### [R&D vs. Revenue Analysis]([https://github.com/malloryholland5/Portfolio/tree/main/Revenue%20and%20R%26D](https://github.com/malloryholland5/Portfolio/blob/main/Does%20R%26D%20Spending%20Improve%20Revenue%20for%20Companies%3F%20.pdf))
 Used regression analysis to determine how well R&D spending predicts future revenue.
 - Tools: statsmodels, pandas
 - Skills: OLS regression, lag features, business interpretation
 
 ---
 
-## 📱 Social Media & Marketing Insights
-
-### [Social Media Engagement Clustering](https://github.com/malloryholland5/Portfolio/tree/main/Social%20Media%20Engagement)
-Segmented audience behavior to identify patterns in post engagement across platforms.
-- Tools: K-Means, seaborn, pandas
-- Skills: Clustering, visualization, customer segmentation
-
----
-
-## 📈 Time Series Forecasting
-
-### [Retail Sales Forecasting](https://github.com/malloryholland5/Portfolio/tree/main/Retail%20Sales%20Forecasting)
-Forecasted U.S. retail sales using ARIMA and seasonal time series modeling.
-- Tools: statsmodels, pandas, matplotlib
-- Skills: Time series analysis, forecasting, decomposition
-
----
-
 ## 🚗 Data Exploration
 
-### [Fuel Efficiency Analysis](https://github.com/malloryholland5/Portfolio/tree/main/Fuel%20Efficiency)
+### [Fuel Efficiency Analysis](https://github.com/malloryholland5/Portfolio/blob/main/Predicting%20Fuel%20Efficiency%20(Decision%20Tree%20Regression%20and%20Linear%20Regression).pdf)
 Explored relationships between engine features and fuel economy using EDA.
 - Tools: pandas, matplotlib, seaborn
 - Skills: Data visualization, correlation analysis, EDA
