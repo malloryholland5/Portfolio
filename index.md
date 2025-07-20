@@ -23,7 +23,7 @@ Built a classification model to predict loan approval using logistic regression 
 - Tools: Python (scikit-learn, seaborn), Jupyter
 - Skills: Data cleaning, modeling, evaluation (confusion matrix, ROC)
 
-### [R&D vs. Revenue Analysis]((https://github.com/malloryholland5/Portfolio/blob/main/Does%20R%26D%20Spending%20Improve%20Revenue%20for%20Companies%3F%20.pdf))
+### [R&D vs. Revenue Analysis](https://github.com/malloryholland5/Portfolio/blob/main/Does%20R%26D%20Spending%20Improve%20Revenue%20for%20Companies%3F%20.pdf)
 Used regression analysis to determine how well R&D spending predicts future revenue.
 - Tools: statsmodels, pandas
 - Skills: OLS regression, lag features, business interpretation
