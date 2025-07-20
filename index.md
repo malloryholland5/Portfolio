@@ -11,8 +11,10 @@ I’m passionate about uncovering insights that drive smarter business decisions
 
 ### [Housing Market – Time-on-Market Model](https://github.com/malloryholland5/Portfolio/blob/main/Northwest%20Georgia%20Housing%20Market%20-%20Random%20Forest%2C%20Linear%20Regression%20Survival%20Curve%20Analysis.ipynb)
 Predicted how long homes would stay on the market using Random Forest and Linear Regression.
-- Tools: Python (pandas, scikit-learn), matplotlib
+- Problem: Predict North Georgia home listing duration
+- Tools: Ppandas, scikit-learn ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white), survival analysis
 - Skills: EDA, model evaluation, regression modeling
+- Why it matters: Helps pricing/timing strategy in North GA real estate
 
 ---
 
