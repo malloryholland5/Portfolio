@@ -21,5 +21,6 @@ This project identifies poisonous mushrooms using the UCI Mushroom dataset. Afte
 
 # API Weather Lookup 
 This project creates a simple command-line tool that provides instant weather reports based on city names or ZIP codes. It has clear prompts and strong error handling to make it user-friendly for non-technical users. The underlying code showcases practical skills in API usage, JSON handling, and reusable function design, which are valuable in data engineering tasks. 
-Will use another project from this semester. 
-Will use another project from this semester. 
+
+# R&D Spending and Revenue Growth
+This project explores whether companies that invest more in R&D experience higher revenue growth. I pulled SEC financial data from 2008 to 2022, focusing on revenue, net income, and R&D spending, then merged it with industry codes. After cleaning the data and calculating year-over-year growth, I tested Random Forest and Gradient Boosting models, which showed weak performance with R² values near zero. A lagged OLS regression revealed a stronger relationship—each $1M increase in R&D was linked to about $10M in revenue the following year, with R² = 0.27. I also used K-Means clustering to group companies by average R&D and growth patterns. The four clusters—high, moderate, conservative, and inefficient investors—highlighted which firms turn R&D spending into actual results.
