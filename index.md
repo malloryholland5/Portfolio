@@ -9,7 +9,7 @@ I’m passionate about uncovering insights that drive smarter business decisions
 
 ## 🏡 Real Estate Forecasting
 
-### [Housing Market – Time-on-Market Model]((https://github.com/malloryholland5/Portfolio/blob/main/Northwest%20Georgia%20Housing%20Market%20-%20Random%20Forest%2C%20Linear%20Regression%20Survival%20Curve%20Analysis.ipynb))
+### [Housing Market – Time-on-Market Model](https://github.com/malloryholland5/Portfolio/blob/main/Northwest%20Georgia%20Housing%20Market%20-%20Random%20Forest%2C%20Linear%20Regression%20Survival%20Curve%20Analysis.ipynb)
 Predicted how long homes would stay on the market using Random Forest and Linear Regression.
 - Tools: Python (pandas, scikit-learn), matplotlib
 - Skills: EDA, model evaluation, regression modeling
@@ -18,7 +18,7 @@ Predicted how long homes would stay on the market using Random Forest and Linear
 
 ## 💰 Financial Analytics
 
-### [Loan Status Classification]((https://github.com/malloryholland5/Portfolio/blob/main/Best%20Model%20for%20Predicting%20Loan%20Status%20(Hyperparameter%20Tuning)-2.ipynb))
+### [Loan Status Classification](https://github.com/malloryholland5/Portfolio/blob/main/Best%20Model%20for%20Predicting%20Loan%20Status%20(Hyperparameter%20Tuning)-2.ipynb)
 Built a classification model to predict loan approval using logistic regression and feature selection.
 - Tools: Python (scikit-learn, seaborn), Jupyter
 - Skills: Data cleaning, modeling, evaluation (confusion matrix, ROC)
