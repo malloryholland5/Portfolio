@@ -1,4 +1,4 @@
-# 😄 Hi, My name is Mallory Holland  
+# Mallory Holland  
 **Recent M.S. Data Science Graduate | Data-Driven Problem Solver | Business-Focused Analyst**
 
 I'm a recent graduate with a Master’s in Data Science and a background in operations, employee training, and cost optimization. My portfolio reflects hands-on experience using Python, Power BI, and machine learning to solve real-world problems.
