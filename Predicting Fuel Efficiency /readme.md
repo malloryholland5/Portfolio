@@ -1,4 +1,6 @@
-## Fuel-Efficiency Prediction
+[⬅️ Back to Main Page](../)
+
+## ⛽️Fuel-Efficiency Prediction
 
 This project predicts a car's fuel efficiency based on engine specs and weight. After correcting missing horsepower values and encoding the origin, I compared a basic Linear Regression model with a tuned Decision Tree. The Linear Regression model achieved an R² of 0.82, while the Decision Tree improved accuracy to 0.86 but showed some overfitting. This project provides a clear, data-backed tool to help buyers and automakers understand real-world fuel costs.
 
