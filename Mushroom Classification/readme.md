@@ -1,3 +1,5 @@
+[⬅️ Back to Main Page](../)
+
 ## Mushroom Classification
 
 This project identifies poisonous mushrooms using the UCI Mushroom dataset. After converting categorical traits into one-hot columns and filling in missing values, I trained a Decision Tree that achieved almost perfect accuracy. A chi-square feature analysis showed that just five attributes related to odor and gills hold almost all predictive power, simplifying deployment while ensuring safety.
