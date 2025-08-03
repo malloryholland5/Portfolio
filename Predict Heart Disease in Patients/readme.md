@@ -9,6 +9,6 @@ This project uses the UCI Cleveland Heart Disease dataset to predict whether a p
 - Performance: Random Forest achieved 90% accuracy and reduced false negatives.
 - Insights: Top predictors were chest pain type, ST depression, and major vessel count.
 
-## Limitations & Next Steps
+## ⏭ Limitations & Next Steps
 - Small, older dataset may not fully represent today’s patients.
 - Could add more features or validate on larger, newer datasets.
