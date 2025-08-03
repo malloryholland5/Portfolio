@@ -21,7 +21,7 @@ I’m passionate about uncovering insights that drive smarter business decisions
 
 ## 💰 Financial Analytics
 
-### [Loan Status Classification](https://github.com/malloryholland5/Portfolio/tree/main/Predicting_Loan_Status(Hyperparameter_Tuning)
+### [Loan Status Classification](https://github.com/malloryholland5/Portfolio/tree/main/Predicting_Loan_Status(Hyperparameter_Tuning))
 - Problem: Predict whether a loan will be approved based on customer data and financial indicators.
 - Tools: ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Models & Techniques: Logistic Regression, Decision Trees, Hyperparameter Tuning
