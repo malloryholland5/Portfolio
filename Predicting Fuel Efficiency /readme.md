@@ -10,6 +10,6 @@ This project predicts a car's fuel efficiency based on engine specs and weight. 
 - Performance: Decision Tree improved accuracy but showed some overfitting.
 - Insights: Model helps buyers and automakers understand real-world fuel costs based on engine and weight specs.
 
-## Next Steps
+## ⏭Next Steps
 - Could add more features (e.g., aerodynamics, tire type).
 - Explore model tuning and cross-validation for improved generalization.
