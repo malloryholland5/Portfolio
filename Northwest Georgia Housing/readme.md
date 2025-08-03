@@ -1,3 +1,5 @@
+[⬅️ Back to Main Page](../)
+
 ## Northwest Georgia Housing Market
 
 This project uses public data from Redfin to estimate how long single-family homes in Northwest Georgia will be on the market. It also identifies when sellers should consider adjusting prices. After cleaning the data by removing unnecessary columns, filling in missing price-drop values, and filtering out extreme outliers, I built a basic Linear Regression model and a tuned Random Forest model. A survival curve shows important milestones at 15, 30, and 60 days when buyer interest decreases. County-level dashboards provide clear guidance on listing prices, timing for price cuts, and marketing strategies.
