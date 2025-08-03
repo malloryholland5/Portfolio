@@ -83,7 +83,7 @@ I’m passionate about uncovering insights that drive smarter business decisions
 
 ### [Check the Weather - API](https://github.com/malloryholland5/Portfolio/tree/main/Check_the_weather)
 - Problem: Command-line tool for live weather reports by city or ZIP code.
-- Tools: ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![requests](https://img.shields.io/badge/requests-20232A?style=for-the-badge&logo=python&logoColor=white)
+- Tools: ![requests](https://img.shields.io/badge/requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 - Models & Techniques: API integration, JSON handling, CLI design
 - Skills: API use, error handling, reusable functions
 - Why it matters: Lets anyone get real-time weather info easily.
@@ -105,7 +105,7 @@ I’m passionate about uncovering insights that drive smarter business decisions
 
 ### [Mushroom Classification](https://github.com/malloryholland5/Portfolio/tree/main/Mushroom%20Classification)
 - Problem: Identify poisonous mushrooms using categorical traits.
-- Tools: ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Tools: ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Models & Techniques: Decision Tree, Chi-Square Analysis
 - Skills: One-hot encoding, missing-value imputation, feature selection
 - Why it matters: Achieves near-perfect accuracy with only five key traits—ideal for field safety tools.
