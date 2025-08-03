@@ -1,29 +1,29 @@
-# 🏡 Northwest Georgia Housing Market 
+# 🏡 [Northwest Georgia Housing Market](https://github.com/malloryholland5/Portfolio/tree/main/Northwest%20Georgia%20Housing) 
 This project uses public data from Redfin to estimate how long single-family homes in Northwest Georgia will be on the market. It also identifies when sellers should consider adjusting prices. After cleaning the data by removing unnecessary columns, filling in missing price-drop values, and filtering out extreme outliers, I built a basic Linear Regression model and a tuned Random Forest model. A survival curve shows important milestones at 15, 30, and 60 days when buyer interest decreases. County-level dashboards provide clear guidance on listing prices, timing for price cuts, and marketing strategies. 
 
-# 🏦 Best Model for Predicting Loan Status 
+# 🏦 [Best Model for Predicting Loan Status](https://github.com/malloryholland5/Portfolio/tree/main/Predicting_Loan_Status(Hyperparameter_Tuning)) 
 This project aims to predict if a loan application will be approved. I cleaned the data, converted text fields into numeric features, and tested three models. Hyperparameter tuning revealed that a Logistic Regression model achieved the best accuracy at about 80 percent, outperforming the other models while remaining easy to explain. The outcome is a practical tool that helps lenders make faster and fairer decisions. 
 
-# ✍🏽 Handwritten Digit Classification 
+# ✍🏽 [Handwritten Digit Classification](https://github.com/malloryholland5/Portfolio/tree/main/Classify%20Handwritten%20Digits-%20CNN) 
 This project recognizes handwritten digits using the MNIST dataset. After scaling the images and converting labels, I trained a compact two-block Convolutional Neural Network (CNN) with dropout and max-pooling. The model achieved 99 percent accuracy in under ten epochs. A confusion matrix showed that the digits 2 and 4 are still challenging, indicating areas for future improvement. The result is a lightweight, high-accuracy classifier that can be useful for any analytics team. 
 
-# ⛽️ Fuel-Efficiency Prediction 
+# ⛽️ [Fuel-Efficiency Prediction](https://github.com/malloryholland5/Portfolio/tree/main/Predicting%20Fuel%20Efficiency%20) 
 This project predicts a car's fuel efficiency based on engine specs and weight. After correcting missing horsepower values and encoding the origin, I compared a basic Linear Regression model with a tuned Decision Tree. The Linear Regression model achieved an R² of 0.82, while the Decision Tree improved accuracy to 0.86 but showed some overfitting. This project provides a clear, data-backed tool to help buyers and automakers understand real-world fuel costs. 
 
-# 🤟🏼 ALS Patient Clustering 
+# 🤟🏼 [ALS Patient Clustering](https://github.com/malloryholland5/Portfolio/tree/main/PCA%20Graph%20and%20K-means%20-%20ALS%20Patients%20) 
 This project groups ALS patients into clinical subgroups. After filtering out unrelated lab features and scaling the data, I tested various cluster counts, finding that a two-cluster K-Means model was the best fit. The model was confirmed through silhouette analysis and visualized using a two-component PCA plot. Despite achieving a silhouette score of only 0.35, I identified two distinct patient profiles that can help guide clinicians in providing better care plans. 
 
-# 🧑🏼‍🔧👩🏼‍🔧 Union Membership Trends & Forecast 
+# 🧑🏼‍🔧👩🏼‍🔧 [Union Membership Trends & Forecast](https://github.com/malloryholland5/Portfolio/tree/main/Union%20Membership%20in%202028) 
 This project forecasts union-membership rates across U.S. counties so companies can spot high-potential markets for new locations. Merging public labor-statistics tables with census demographics and cleaning the rows with missing values. I benchmarked an ARIMA model against a tuned Prophet model. The mean-absolute-percentage error to roughly 6 percent. Interactive county-level maps and demographic overlays translate the forecasts into clear, data-backed guidance on where to expand and how to budget for future labor negotiations.  
 
-# 🍄 Mushroom Classification 
+# 🍄 [Mushroom Classification](https://github.com/malloryholland5/Portfolio/tree/main/Mushroom%20Classification) 
 This project identifies poisonous mushrooms using the UCI Mushroom dataset. After converting categorical traits into one-hot columns and filling in missing values, I trained a Decision Tree that achieved almost perfect accuracy. A chi-square feature analysis showed that just five attributes related to odor and gills hold almost all predictive power, simplifying deployment while ensuring safety. 
 
-# 🌤 API Weather Lookup 
+# 🌤 [API Weather Lookup](https://github.com/malloryholland5/Portfolio/tree/main/Check_the_weather) 
 This project creates a simple command-line tool that provides instant weather reports based on city names or ZIP codes. It has clear prompts and strong error handling to make it user-friendly for non-technical users. The underlying code showcases practical skills in API usage, JSON handling, and reusable function design, which are valuable in data engineering tasks. 
 
-# 💸 R&D Spending and Revenue Growth
+# 💸 [R&D Spending and Revenue Growth](https://github.com/malloryholland5/Portfolio/tree/main/Does%20R%26D%20Spending%20Matter)
 This project explores whether companies that invest more in R&D experience higher revenue growth. I pulled SEC financial data from 2008 to 2022, focusing on revenue, net income, and R&D spending, then merged it with industry codes. After cleaning the data and calculating year-over-year growth, I tested Random Forest and Gradient Boosting models, which showed weak performance with R² values near zero. A lagged OLS regression revealed a stronger relationship—each $1M increase in R&D was linked to about $10M in revenue the following year, with R² = 0.27. I also used K-Means clustering to group companies by average R&D and growth patterns. The four clusters—high, moderate, conservative, and inefficient investors—highlighted which firms turn R&D spending into actual results.
 
-# ❤️‍🩹 Predict Heart Disease in Patients
+# ❤️‍🩹 [Predict Heart Disease in Patients](https://github.com/malloryholland5/Portfolio/tree/main/Predict%20Heart%20Disease%20in%20Patients)
 This project uses the UCI Cleveland Heart Disease dataset to predict whether a patient has heart disease, aiming to support early diagnosis using standard clinical features. After removing incomplete records and converting the diagnosis to a simple healthy/sick classification, I explored key variables like chest pain type, maximum heart rate, and the number of major vessels. I trained both Logistic Regression and Random Forest models, using GridSearch for tuning and evaluating performance with metrics such as accuracy, recall, and ROC-AUC. The Random Forest model achieved the highest accuracy at 90%, especially reducing false negatives, and identified chest pain, ST depression, and major vessel count as top predictors. Despite the dataset’s small size and older diagnostic methods, the results show that these models can be integrated into routine patient care to flag at-risk individuals and support doctors with data-backed decisions. Ethical guidelines were followed throughout, with careful attention to patient privacy and transparent reporting of all methods and limitations.
